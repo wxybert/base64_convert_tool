@@ -1,0 +1,2 @@
+dist\pyqt.exe
+pause
